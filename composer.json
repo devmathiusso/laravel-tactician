@@ -1,5 +1,5 @@
 {
-    "name": "jildertmiedema/laravel-tactician",
+    "name": "devmathiusso/laravel-tactician",
     "description": "Tactician for laravel 8+",
     "keywords": ["laravel", "tactician", "commandbus"],
     "require": {
@@ -19,8 +19,8 @@
     },
     "authors": [
         {
-            "name": "Jildert Miedema",
-            "email": "jildert@pimenta.nl"
+            "name": "Victor Mathiusso",
+            "email": "dev.mathiusso@gmail.com"
         }
     ]
 }
